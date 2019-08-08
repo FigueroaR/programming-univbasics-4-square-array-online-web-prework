@@ -1,8 +1,9 @@
 
 
-counter = 0
+
 numbers = [1,2,3]
+length = numbers.length
  
-while numbers[counter] do
+while 
   Math.sqrt(numbers[counter])
 end
