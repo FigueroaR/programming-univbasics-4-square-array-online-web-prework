@@ -2,8 +2,8 @@
 
 
 numbers = [1,2,3]
-length = numbers.length
+x = numbers
  
-while numbers.length > 0
-  Math.sqrt(numbers[counter =+ counter])
+while x > 0
+  Math.sqrt(x)
 end
