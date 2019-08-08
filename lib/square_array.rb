@@ -4,7 +4,7 @@
 numbers = [1,2,3]
 
 def square_array(numbers)
-  while 
+  while numbers > 0
 # => [1,4,9])
 
 new_numbers = [9,10,16,25]
